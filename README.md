@@ -8,7 +8,7 @@ SecretSonics is a python based program for simple audio steganography. You can h
 This tool require python3
 
 # Installation
-'''sh
+```
 git clone https://github.com/luckysoni21/SecretSonics.git
 cd SecretSonics
-'''
+```
