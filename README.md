@@ -9,6 +9,6 @@ This tool require python3
 
 # Installation
 '''sh
-https://github.com/luckysoni21/SecretSonics.git
+git clone https://github.com/luckysoni21/SecretSonics.git
 cd SecretSonics
 '''
