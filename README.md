@@ -29,3 +29,6 @@ python3 SecretSonics.py -f Demo.wav -m "Secret Msg" -o output.wav
 ```
 python3 ExWave.py -f output.wav
 ```
+
+#### Follow Me On Instagram <a href="https://www.instagram.com/hack.warden/">Hack Warden Instagram Account</a>
+#### Join My YouTube Channel <a href="https://www.youtube.com/@mrwarden21">Hack Warden YouTube Channel</a>
